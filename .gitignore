@@ -1,0 +1,7 @@
+*.a
+*.cm*
+*.o
+*.omc
+*.ppo
+*.ppi
+.omakedb*
