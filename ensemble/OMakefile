@@ -45,7 +45,7 @@ eprintln($(CWD)/OMakefile is not configured)
 # configuration variables.
 #
 
-# CFLAGS +=
+CFLAGS += -DINLINE=inline
 # ASFLAGS +=
 # LDFLAGS +=
 # INCLUDES +=
