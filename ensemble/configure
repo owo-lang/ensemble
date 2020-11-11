@@ -22,6 +22,9 @@ switch ("$MACHTYPE")
        case i86pc:
             set ENS_MACHTYPE="i386";
             breaksw;
+       case x86_64:
+            set ENS_MACHTYPE="x86_64";
+            breaksw;
        case i486:
        case i586:
        case i686:

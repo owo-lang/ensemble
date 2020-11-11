@@ -164,7 +164,7 @@ MAKE = make
 MKLIB = libtool -static -o    #comment forces spaces
 MKDYLIB = gcc -dynamiclib -fno-common -o 
 else
-MAKE	= gmake	
+MAKE	= make	
 MKLIB   = ar cr 		# comment forces spaces
 endif
 RANLIB  = ranlib
