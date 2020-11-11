@@ -1,0 +1,6 @@
+LIBFILES[] =
+   ens_utils
+   ens_hashtbl
+   ens_connection
+   ens_comm
+   ens_threads
